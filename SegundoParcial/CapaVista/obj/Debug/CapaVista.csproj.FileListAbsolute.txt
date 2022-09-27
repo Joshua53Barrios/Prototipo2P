@@ -1,0 +1,9 @@
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.Alumnos.resources
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.PRINCIPAL.resources
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaVista\obj\Debug\CapaVista.pdb
