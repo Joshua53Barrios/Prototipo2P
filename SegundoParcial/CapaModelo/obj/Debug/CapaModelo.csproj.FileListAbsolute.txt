@@ -1,6 +1,0 @@
-C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaModelo\bin\Debug\CapaModelo.dll
-C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaModelo\bin\Debug\CapaModelo.pdb
-C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
-C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
-C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaModelo\obj\Debug\CapaModelo.dll
-C:\Users\50231\OneDrive\Escritorio\Prototipo2P\SegundoParcial\CapaModelo\obj\Debug\CapaModelo.pdb
